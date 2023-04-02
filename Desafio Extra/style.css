@@ -1,0 +1,88 @@
+
+body {
+    text-align: center;
+    width: 1324px;
+    height: 790px;
+    
+}
+
+
+#main {
+    text-align: center;
+    width: 625px;
+    margin: auto;
+    margin-top: 64px;
+}
+
+#main #mulher {
+    margin-bottom: 39px;
+    
+}
+
+
+#main #textos {
+    margin-bottom: 64px;
+}
+
+#main #segundo #cor1  {
+    color: #828282;
+    font-weight: bold;
+    font-weight: 70px;
+    
+}
+
+body, p, a {    
+    font-family: 'Open Sans', sans-serif;
+}
+
+strong, a {
+    color: #3F3D56;
+    font-weight: bold;
+}
+
+h1 {
+    color: #3F3D56;
+    font-family: 'Dosis', sans-serif;
+    font-size: 32px;
+    line-height: 40.45px;
+    font-weight: normal;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+h1 span {
+    color: #EE24FF;
+    font-weight: bold;
+}
+
+p {
+    color: #828282;
+    font-size: 15px;
+    line-height: 22px;
+    margin-bottom: 30px;
+}
+
+
+#footer #line {
+    width: 391px;
+    height: 0px;
+    margin: 0 auto 17px;    
+    border: 1px #ECEFF2 solid;
+}
+
+#footer a {
+    text-decoration: none;
+}
+
+#footer a + a {
+    margin-left: 42px;
+}
+
+#onda {
+    position: absolute;
+    width: 1350px;
+    left:0;
+    top: 790px;  
+    bottom: 0;
+}
+
